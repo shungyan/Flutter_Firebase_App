@@ -1,6 +1,9 @@
 # flutter_application_1
 
-A new Flutter project.
+The purpose of this app is for me to understand how firebase and flutter work together.
+
+I have made a basic flutter login and sign up feature which connects to firebase. After logging in, the user is able to add the number of items they have which will be recorded in firebase. 
+
 
 ## Getting Started
 
